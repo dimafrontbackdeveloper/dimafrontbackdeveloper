@@ -24,10 +24,16 @@
   <img alt="typegoose" src="https://img.shields.io/badge/-Typegoose-green?style=flat-square&logo=&logoColor=white" />
   <img alt="sequalize" src="https://img.shields.io/badge/-Sequalize-ea2845?style=flat-square&logo=&logoColor=white" />
   <img alt="sequalize typescript" src="https://img.shields.io/badge/-Sequalize typescript-ea2845?style=flat-square&logo=&logoColor=white" />
-
+  <img alt="strapi" src="https://img.shields.io/badge/-Strapi-blueviolet?style=flat-square&logo=Strapi&logoColor=white" />
+  <img alt="postgresql" src="https://img.shields.io/badge/-Postgresql-blue?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="mongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="github" src="https://img.shields.io/badge/-Github-blue?style=flat-square&logo=Github&logoColor=white" />
+  <img alt="postman" src="https://img.shields.io/badge/-Postman-orange?style=flat-square&logo=Postman&logoColor=white" />
+  <img alt="vercel" src="https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=Vercel&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="pnpm" src="https://img.shields.io/badge/-Pnpm-yellow?style=flat-square&logo=pnpm&logoColor=white" />
+  <img alt="yarn" src="https://img.shields.io/badge/-Yarn-pink?style=flat-square&logo=yarn&logoColor=white" />
 </p>
 <h3>Open source projects</h3>
 <table>
