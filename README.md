@@ -39,7 +39,7 @@
 
 <p>
 <img src='./rofl1.gif' alt='funny' width='65%'>
-<img src='./rofl2.gif' alt='funny' width='25%'>
+<img src='./rofl2.webp' alt='funny' width='25%'>
 </p>
 
 <h3>Where to find me</h3>
