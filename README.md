@@ -37,6 +37,10 @@
   and much more
 </p>
 
+<p>
+<img src='https://camo.githubusercontent.com/a8c8389181c01a4f48487ae37f939b44d3b68ef3e79ee7e5efe3b648d84f7675/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f336f687a644b764c543144784678685a41492f67697068792e676966'>
+</p>
+
 <h3>Where to find me</h3>
 <p><a href="https://github.com/dimafrontbackdeveloper" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/dimadeveloper" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/dimachorniydev" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
