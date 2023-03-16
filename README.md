@@ -21,9 +21,9 @@
   <img alt="expressjs" src="https://img.shields.io/badge/-Expressjs-green?style=flat-square&logo=express&logoColor=white" />
   <img alt="nestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
   <img alt="mongoose" src="https://img.shields.io/badge/-Mongoose-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="typegoose" src="https://img.shields.io/badge/-Typegoose-green?style=flat-square&logo=express&logoColor=white" />
-  <img alt="sequalize" src="https://img.shields.io/badge/-Sequalize-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
-  <img alt="sequalize typescript" src="https://img.shields.io/badge/-Sequalize typescript-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
+  <img alt="typegoose" src="https://img.shields.io/badge/-Typegoose-green?style=flat-square&logo=&logoColor=white" />
+  <img alt="sequalize" src="https://img.shields.io/badge/-Sequalize-ea2845?style=flat-square&logo=&logoColor=white" />
+  <img alt="sequalize typescript" src="https://img.shields.io/badge/-Sequalize typescript-ea2845?style=flat-square&logo=&logoColor=white" />
 
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
