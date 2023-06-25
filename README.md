@@ -34,7 +34,6 @@
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="pnpm" src="https://img.shields.io/badge/-Pnpm-yellow?style=flat-square&logo=pnpm&logoColor=white" />
   <img alt="yarn" src="https://img.shields.io/badge/-Yarn-pink?style=flat-square&logo=yarn&logoColor=white" />
-  and much more
 </p>
 
 <p>
